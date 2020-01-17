@@ -1,7 +1,7 @@
 {
   "name": "HelloWorld",
   "description": "Blank Process",
-  "main": "BrowserOpen.xaml",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.2]",
     "UiPath.Mail.Activities": "[1.7.2]",
